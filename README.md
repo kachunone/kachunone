@@ -1,2 +1,8 @@
- * I am a student studying Mobile Application Development program in George Brown College. 
- * I am interested in software development and have experience in developing Android/iOS Application using Java/Swift/React Native in projects.
+### IT Specialist | Full-Stack Developer | Innovation Enthusiast 👋
+
+🚀 Proficient in TypeScript, Java, Swift, Python  
+🛠️ Frameworks: React, React Native, Next.js  
+💡 User-centered design advocate  
+🔧 Hands-on experience in full-stack applications  
+
+Let's team up and create tech wonders! Connect with me for collaboration opportunities.
